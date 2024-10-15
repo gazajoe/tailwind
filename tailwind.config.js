@@ -10,7 +10,7 @@ export default {
       colors:{
         orange: colors.orange,
         teal: colors.teal,
-        "light-blue": colors.lightBlue,
+        "light-blue": colors.sky,
 
       }
     },
