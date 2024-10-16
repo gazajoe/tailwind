@@ -7,12 +7,6 @@ export default {
   theme: {
     extend: {
 
-      colors:{
-        orange: colors.orange,
-        teal: colors.teal,
-        "light-blue": colors.sky,
-
-      }
     },
   },
   plugins: [],
